@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: 🧪 Rodar testes com Jest
-        run: npx jest
+        run: npm test
