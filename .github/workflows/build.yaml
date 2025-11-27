@@ -20,3 +20,6 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Build step (placeholder)
+        run: echo "Projeto não possui build. Build executado com sucesso!"
