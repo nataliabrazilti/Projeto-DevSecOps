@@ -4,7 +4,8 @@
   "description": "",
   "main": "calculator.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "echo 'Rodando build...'"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,4 @@
     "url": "https://github.com/nataliabrazilti/Projeto-DevSecOps/issues"
   },
   "homepage": "https://github.com/nataliabrazilti/Projeto-DevSecOps#readme",
-  "devDependencies": {
-    "jest": "^30.2.0"
-  }
-}
+  "
